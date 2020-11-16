@@ -7,7 +7,7 @@ connection:
     user: root
     port: 3306
     host: localhost
-    password: nadipw
+    password: 
     database: northwind
 
 
